@@ -1,3 +1,5 @@
+#   Store this file at the root of your local repository.
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,3 +8,10 @@
 *.csproj
 *.unityproj
 *.sln
+*.pidb
+
+build
+.DS_Store
+*.userprefs
+
+*.psd
