@@ -1,4 +1,4 @@
-Space-Party
+Space-Party ![status](https://img.shields.io/badge/status-inactive-red.svg)
 ===========
 
 Space Party is a game made by a team for our class ITP 280; it is a collection of 4 games (each programmer made his own game, and the artist provided art for all games).
